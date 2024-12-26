@@ -38,10 +38,17 @@ An Augmented Reality (AR) car repair guide designed to assist users with removin
 ---
 
 ## Marker Details
-- **Marker Image**: Stored in the `assets/target_marker.png`.
+- **Marker Image**: Stored in the `target_marker.jpg`.
 - Ensure proper visibility and lighting for accurate marker detection.
 
 ---
 
-## File Structure
-The repository contains the following files:
+## Future Enhancements
+- Additional AR scenes for other car repair tasks.
+- Voice-guided instructions to complement AR visuals.
+- Integration with real-time expert assistance.
+
+---
+
+## Contact
+For questions, suggestions, or feedback, please reach out to **Snehasis Medda**.
