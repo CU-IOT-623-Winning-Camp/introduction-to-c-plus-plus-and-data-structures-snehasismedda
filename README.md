@@ -15,19 +15,17 @@ An Augmented Reality (AR) car repair guide designed to assist users with removin
 
 ### Prerequisites
 1. **Download the PlugXR Viewer App**  
-   Use the QR code or the APK file below to download and install the PlugXR Viewer app:
+     - **QR Code**:  
+     <img src="plugxr_qr.png" alt="PlugXR Viewer QR Code" width="200">  
    
-   - **QR Code**:  
-     <img src="assets/plugxr_qr.png" alt="PlugXR Viewer QR Code" width="200">  
-   
-   - **APK File**: [Download PlugXR Viewer APK](assets/plugxr_viewer.apk)
+   - **APK File**: [Download PlugXR Viewer APK](https://drive.google.com/file/d/1wnKjAxr_WiKEwi3bhQ0unhtZgH1Kzmuw/view?usp=drive_link)
 
 2. **Obtain the Marker**
    Use the image below as the target marker for the AR scene:  
 
    - **Marker Image**:  
-     <img src="assets/target_marker.png" alt="Car Battery Marker" width="400">  
-
+     <img src="target_marker.jpg" alt="Car Battery Marker" width="400">
+     
 ---
 
 ### Usage Instructions
