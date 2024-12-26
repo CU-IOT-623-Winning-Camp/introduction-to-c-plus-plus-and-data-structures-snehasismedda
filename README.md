@@ -27,7 +27,30 @@ An Augmented Reality (AR) car repair guide designed to assist users with removin
      <img src="target_marker.jpg" alt="Car Battery Marker" width="400">
      
 ---
+### Installation Instructions
 
+1. **Download the APK**:
+   - Use the above link or QR code to download the APK file to your Android device.
+
+2. **Grant Permissions**:
+   - Since the app is not verified by Google Play, you must allow installations from unknown sources:
+     - Go to your phone’s **Settings > Security > Install unknown apps**.
+     - Select your browser or file manager and toggle **Allow from this source**.
+
+3. **Install the APK**:
+   - Locate the downloaded APK file (usually in the **Downloads** folder).
+   - Tap on the file to start the installation.
+
+4. **Handle Warnings**:
+   - During installation, you might see a warning that the app is not verified by Google. Tap **Install Anyway** to proceed.
+
+5. **Troubleshooting**:
+   - If the installation fails, try the following:
+     - Restart your device.
+     - Ensure you have granted the necessary permissions.
+     - Try installing the APK again (it may take 2-3 attempts on some devices).
+
+---
 ### Usage Instructions
 1. **Launch the PlugXR Viewer App**.
 2. **Scan the Marker**:  
